@@ -24,6 +24,14 @@ margin: 5px;
 font-size: 150%;
 }
 
+
+.li-nav:hover {
+  background-color: pink;
+  border-radius: 8px;
+  transition: .5 ease-in-out;
+  transition-delay: .3s;
+}
+
 .a-nav {
 color: black;
 text-decoration: none;
